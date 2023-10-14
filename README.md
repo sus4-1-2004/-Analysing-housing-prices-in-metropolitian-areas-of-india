@@ -3,5 +3,5 @@ DASHBOARD1 PUBLIC LINK - http://Public.tableau.com/app/profile/t.sushmitha/viz/t
 DASHBOARD2 PUBLIC LINK -  http://Public.tableau.com/app/profile/t.sushmitha/viz/tableaudashboard2_16966941755980/Dashboard2
 DASHBOARD3 PUBLIC LINK - http://Public.tableau.com/app/profile/t.sushmitha/viz/tableaudashboard3_16966944734010/Dashboard3
 DASHBOARD4 PUBLIC LINK - http://Public.tableau.com/app/profile/t.sushmitha/viz/tableaudashboard4/Dashboard4
-STORY PUBLIC LINK -      http://Public.tableau.com/app/profile/t.sushmitha/viz/tableaudastory_16966954567320/Story1
+STORY PUBLIC LINK -      http://Public.tableau.com/app/profile/t.sushmitha/viz/tableaustory_16966954567320/Story1
 VIDEO DEMONSTRATION -     http://www.mediafire.com/file/cj1gzzmghkyre0p/VID-20231011-WA0007.mp4/file
